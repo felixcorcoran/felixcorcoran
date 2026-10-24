@@ -8,10 +8,10 @@ Desarrollador **full stack** en Málaga, titulado en DAW. Conecto APIs de IA con
 
 | Proyecto | Qué es | Con qué |
 | --- | --- | --- |
-| [**Kalo AI**](https://github.com/felixjbk/kaloAI) · [demo](https://kaloai.infinityfreeapp.com/?i=1) | Nutrición con recetas generadas por IA según calorías, objetivos e intolerancias. Tres roles, plan semanal, inventario y lista de la compra. | PHP 8, MySQL, Gemini API, Tailwind |
-| [**Diagnóstico web**](https://github.com/felixjbk/diagnostico) · [web](https://diagnostico.felixcorcoran.es) | Escribes una web y te dice qué se encuentra un cliente, solo con hechos comprobables. | Astro SSR, TypeScript, Vercel |
+| [**Kalo AI**](https://github.com/felixcorcoran/kaloAI) · [demo](https://kaloai.infinityfreeapp.com/?i=1) | Nutrición con recetas generadas por IA según calorías, objetivos e intolerancias. Tres roles, plan semanal, inventario y lista de la compra. | PHP 8, MySQL, Gemini API, Tailwind |
+| [**Diagnóstico web**](https://github.com/felixcorcoran/diagnostico) · [web](https://diagnostico.felixcorcoran.es) | Escribes una web y te dice qué se encuentra un cliente, solo con hechos comprobables. | Astro SSR, TypeScript, Vercel |
 | [**felixcorcoran.es**](https://felixcorcoran.es) | Mi web de servicios: narrativa guiada por el scroll y escultura 3D con shaders propios. | Astro, GSAP, Three.js, GLSL |
-| [**Portfolio**](https://github.com/felixjbk/Portfolio) | Mi portfolio: el contenido y el CV en PDF salen de un mismo archivo de datos. | Astro, Tailwind, GitHub Actions |
+| [**Portfolio**](https://github.com/felixcorcoran/Portfolio) | Mi portfolio: el contenido y el CV en PDF salen de un mismo archivo de datos. | Astro, Tailwind, GitHub Actions |
 
 ### Stack
 
