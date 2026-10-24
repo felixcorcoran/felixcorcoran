@@ -1,6 +1,6 @@
 ## Hola, soy Félix 👋
 
-Desarrollador **full stack** en Málaga, titulado en DAW. Conecto APIs de IA (OpenAI, Claude, Gemini) con aplicaciones web y automatizo procesos con n8n. Llevo webs a medida para pequeños negocios sobre un sistema MVC en PHP, con trato directo con cada cliente.
+Desarrollador **full stack** en Málaga, titulado en DAW. Conecto APIs de IA con aplicaciones web y automatizo procesos con n8n. Llevo webs a medida para pequeños negocios sobre un sistema MVC en PHP, con trato directo con cada cliente.
 
 **Portfolio:** [dev.felixcorcoran.es](https://dev.felixcorcoran.es) · **LinkedIn:** [felixcorcoran](https://www.linkedin.com/in/felixcorcoran) · **Correo:** contacto@felixcorcoran.es
 
