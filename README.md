@@ -11,7 +11,7 @@ Desarrollador **full stack** en Málaga, titulado en DAW. Conecto APIs de IA con
 | [**Kalo AI**](https://github.com/felixcorcoran/kaloAI) · [demo](https://kaloai.infinityfreeapp.com/?i=1) | Nutrición con recetas generadas por IA según calorías, objetivos e intolerancias. Tres roles, plan semanal, inventario y lista de la compra. | PHP 8, MySQL, Gemini API, Tailwind |
 | [**Diagnóstico web**](https://github.com/felixcorcoran/diagnostico) · [web](https://diagnostico.felixcorcoran.es) | Escribes una web y te dice qué se encuentra un cliente, solo con hechos comprobables. | Astro SSR, TypeScript, Vercel |
 | [**Radar de subvenciones**](https://github.com/felixcorcoran/subvenciones) · [web](https://subvenciones.felixcorcoran.es) | Cada mañana recoge las ayudas nuevas de toda España para autónomos y pymes, lee sus bases con IA y dice a cuáles puede optar cada negocio. | Astro, TypeScript, Gemini API, GitHub Actions |
-| [**felixcorcoran.es**](https://felixcorcoran.es) | Mi web de servicios: narrativa guiada por el scroll y escultura 3D con shaders propios. | Astro, GSAP, Three.js, GLSL |
+| [**felixcorcoran.es**](https://github.com/felixcorcoran/felixcorcoran-landing) · [web](https://felixcorcoran.es) | Mi web de servicios: narrativa guiada por el scroll y escultura 3D con shaders propios. | Astro, GSAP, Three.js, GLSL |
 | [**Portfolio**](https://github.com/felixcorcoran/Portfolio) | Mi portfolio: el contenido y el CV en PDF salen de un mismo archivo de datos. | Astro, Tailwind, GitHub Actions |
 
 ### Stack
